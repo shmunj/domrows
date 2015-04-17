@@ -5,7 +5,7 @@ For nicer effect, it detects background color by simply looking at pixels on ver
 It is most effective with png images with small number of "clean" colors (like in cartoons), photos of landscapes, portraits with simple background etc.
 
 Usage:
-- only show:    strdom.py <*image*>
-- show & save:  strdom.py <*input image*> <*output image*>
+- only show:    domrows.py <*image*>
+- show & save:  domrows.py <*input image*> <*output image*>
 
 ![input](https://i.imgur.com/gtT3DrE.png) ![output](https://i.imgur.com/uyQNzj8.png)
